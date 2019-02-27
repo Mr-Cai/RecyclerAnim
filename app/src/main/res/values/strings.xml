@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">格子入场动画</string>
-    <string name="button_reload">Reload</string>
-    <string name="button_list">List</string>
-    <string name="button_grid">Grid</string>
+    <string name="button_reload">刷新</string>
+    <string name="button_list">列表</string>
+    <string name="button_grid">网格</string>
 </resources>
